@@ -2,6 +2,7 @@
 Resume highlighting my web development skills, projects, and continuous learning journey.
 <br>
 PRAGYA*
+<br>
 Web Designer & Developer (Beginner)
 
 📍 Delhi, India
@@ -58,4 +59,5 @@ Currently pursing BSC(hons)
  📞 *CONTACT*
 
 Email: cpragya761@gmail.com
+<br>
 GitHub: github.com/pragya863
