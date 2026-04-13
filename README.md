@@ -6,7 +6,9 @@ PRAGYA*
 Web Designer & Developer (Beginner)
 
 📍 Delhi, India
+<br>
 📧 cpragya761@gmail.com
+<br>
 💻 GitHub: github.com/pragya863
 
  ✨ *ABOUT ME*
@@ -24,28 +26,32 @@ I am a passionate and motivated beginner in web design and development. I enjoy 
 * PHP (Basics)
 * 
 *🛠️ Tools & Platforms
+<br>
 GitHub
+<br>
 Visual Studio Code
 
 
-🌱 Currently Learning
+🌱 Currently Learning<br>
 
 Canva
+<br>
 Python (Basics)
 
  💼 *PROJECTS* 
-* 👉 1. 🌐 Personal Portfolio Website.
-Built using HTML & CSS
-Responsive design for mobile and desktop
+ <br>
+* 👉 1. 🌐 Personal Portfolio Website.<br>
+Built using HTML & CSS<br>
+Responsive design for mobile and desktop<br>
 
-📝 Login / Signup Page
-Designed a login form UI.
-Clean design
-Form validation (basic)
+📝 Login / Signup Page<br>
+Designed a login form UI.<br>
+Clean design<br>
+Form validation (basic)<br>
 
 📚 *EDUCATION*
 
-Currently learning Web Design & Development
+Currently learning Web Design & Development<br>
 Currently pursing BSC(hons)
 
 
